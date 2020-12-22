@@ -1,0 +1,13 @@
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\bin\Debug\netcoreapp3.1\POO_de_Produtos.exe
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\bin\Debug\netcoreapp3.1\POO_de_Produtos.deps.json
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\bin\Debug\netcoreapp3.1\POO_de_Produtos.runtimeconfig.json
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\bin\Debug\netcoreapp3.1\POO_de_Produtos.runtimeconfig.dev.json
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\bin\Debug\netcoreapp3.1\POO_de_Produtos.dll
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\bin\Debug\netcoreapp3.1\POO_de_Produtos.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\obj\Debug\netcoreapp3.1\POO_de_Produtos.csprojAssemblyReference.cache
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\obj\Debug\netcoreapp3.1\POO_de_Produtos.AssemblyInfoInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\obj\Debug\netcoreapp3.1\POO_de_Produtos.AssemblyInfo.cs
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\obj\Debug\netcoreapp3.1\POO_de_Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\obj\Debug\netcoreapp3.1\POO_de_Produtos.dll
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\obj\Debug\netcoreapp3.1\POO_de_Produtos.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\POO_de_Produtos\obj\Debug\netcoreapp3.1\POO_de_Produtos.genruntimeconfig.cache
